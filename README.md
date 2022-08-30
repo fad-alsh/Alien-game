@@ -9,13 +9,13 @@ On a really hot summer day I decided to program this little arcade game that rem
 
 Clone it into your terminal and install pygame:
 
-    git clone https://github.com/anishLearnsToCode/alien-invasion
+    git clone https://github.com/fad-alsh/Alien-game.git
     pip install pygame
     
 Enter and run it:
 
-    cd alien-invasion
-    python driver.py 
+    cd alien_shooting
+    python game.py 
 
 Enjoy!🙂🎮
 
