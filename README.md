@@ -14,7 +14,7 @@ Clone it into your terminal and install pygame:
     
 Enter and run it:
 
-    cd alien_shooting
+    cd alien-game/alien_shooting
     python game.py 
 
 Enjoy!🙂🎮
